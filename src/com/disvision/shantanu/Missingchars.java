@@ -7,7 +7,7 @@ public class Missingchars {
 	public static void main(String[] args) {
 		int count=0;
 		try {
-		System.out.println("Enter any string");
+		System.out.println("Enter any string cbdskb");
 		Scanner scanner= new Scanner(System.in);
 		String s = scanner.nextLine();
 		for(int i=0;i<s.length();i++) {
